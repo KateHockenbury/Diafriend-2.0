@@ -1,4 +1,16 @@
 <<<<<<< HEAD
+# DiaFriend-2.0
+This is a continuation project of the application DiaFriend. 
+Recommend using VSCode as your IDE. 
+Download Dart and Flutter. 
+Import The DiaFriend Application. 
+
+Firebase can be used for login features is not currently implemented. 
+
+See attach paper to better understand the files and my experience with the project.
+
+
+
 # DiaFriend-1.0
 Release version of Dia Friend- Available on Google Play Store
 =======
