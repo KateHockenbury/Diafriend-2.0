@@ -7,7 +7,7 @@ Import The DiaFriend Application.
 
 Firebase can be used for login features is not currently implemented. 
 
-See attach paper to better understand the files and my experience with the project.
+See attach paper (APEX - Final Report) to better understand the files and my experience with the project.
 
 
 
